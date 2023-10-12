@@ -1,0 +1,5 @@
+Docs
+https://learn.microsoft.com/es-es/training/paths/azure-sql-fundamentals/
+
+Youtube
+https://www.youtube.com/@MicrosoftAzure

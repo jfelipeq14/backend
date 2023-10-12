@@ -1,0 +1,10 @@
+Docs
+https://git-scm.com
+
+https://bluuweb.github.io/desarrollo-web-bluuweb/07-01-git/#¿que-es-git
+
+https://blog.coffeedevs.com/8-razones-para-usar-git/
+
+https://medium.com/nerd-for-tech/a-non-scary-introduction-to-the-wondrous-world-of-git-eb213643a4e8
+
+https://danielkummer.github.io/git-flow-cheatsheet/
