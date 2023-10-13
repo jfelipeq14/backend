@@ -2,3 +2,21 @@ Docs
 https://learn.microsoft.com/es-es/dotnet/
 
 learn.microsoft.com/es-es/aspnet/core/
+
+Create API
+
+https://youtu.be/IvoDzgrjMOY?si=G7UK5ZdeP8XWSAih
+
+https://youtu.be/qcRCDM5KiSo?si=VQpuQ-KIQVw5UX-t
+
+https://youtu.be/nNywgsb_HPs?si=9E9rUPg3nShAQI7C
+
+https://youtu.be/3NJbzf-41f0?si=-7iyi4h3GamUshq5
+
+https://youtu.be/eRTmNqUCjXM?si=p4so_4Vjj3roG_Hi
+
+https://youtu.be/Yw9s-Hrds_0?si=oDH5Ten5FZXq2UqS
+
+CAPAS(Recomendado)
+https://youtu.be/Z5YBgPrP09o?si=MAGEb9-VvjdPHRMS
+https://youtu.be/W_aB-Rr8vhI?si=ud8g3prXKjE39Zgq
